@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProfitClicks.Tests/obj
+/ProfitClicks.Tests/bin
+/ProfitClicks/obj
+/ProfitClicks/bin
+/.vs
+/.idea
